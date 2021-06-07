@@ -64,7 +64,7 @@ client.on("message", (message) => {
   }
 });
 
-client.login("ODQyNjg3MDkxOTI1NTgxODM0.YJ47gw.uyDouxGkQi9PxC0xMrqjDVVY9Qk");
+client.login("ODQyNjg3MDkxOTI1NTgxODM0.YJ47gw.FadApRY2LBhHRXULPb83sAIO2Xo");
 
 // https://discord.com/oauth2/authorize?client_id=842687091925581834&permissions=522320&scope=bot
 // 851509394893963285
